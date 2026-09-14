@@ -1,0 +1,7 @@
+daraja:
+  environment: SANDBOX # or PRODUCTION
+  consumer-key: "YOUR_CONSUMER_KEY"
+  consumer-secret: "YOUR_CONSUMER_SECRET"
+  business-short-code: "174379"
+  passkey: "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919"
+  default-callback-url: "https://yourdomain.com/api/v1/mpesa/callback"
